@@ -1,0 +1,49 @@
+#Important Emission Lines
+#Values given in Microns
+#
+#
+0.121625 #Lyalpha
+0.130542 #OI
+0.133660 #CII
+0.139833 #SiIV
+0.154615 #CIV
+0.434642 #Hgamma
+0.447822 #FeII
+0.456471 #FeII
+0.468666 #He II
+0.485313 #Hbeta
+0.587741 # HeI
+0.656493 #Halpha
+0.6585   #[NII]
+0.6718   #[SII]
+0.6733   #[SII]
+0.706567 #HeI
+0.732127 #[OII]
+0.8500  # Ca II (absorption)
+0.8544  # Ca II (absorption)
+0.8600  # Pa14
+0.8664  # Ca II (absorption)
+0.9069  # [SIII]
+0.9202  # Fe II
+0.9531  # [SIII]
+0.9546  # Pa epsilon
+1.0290  # [SII]
+1.0830  # HeI
+1.0938  # PaGamma
+1.1126  # [FeII]
+1.1620  # He II 
+1.1287  # OI
+1.162  # He II
+1.2520 # [SIX]
+1.2818 # PaBeta
+1.2950 # [FeII]
+1.3201 #[FeII]
+1.5339 # [FeII]
+1.6436 #[FeII]
+1.6807 #[FeII]
+1.6811 #Br11
+1.7367 #Br10
+1.8751 #PaAlpha
+1.9446 #BrDelta
+1.9564 #H_2
+1.9620 #[Si VI]
